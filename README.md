@@ -90,4 +90,6 @@ Aplicação prática para entrevistas da área de Data Analytics
 📄 Licença
 
 Este projeto é livre para uso, modificação e compartilhamento.
+
 Use como base para seus estudos ou para treinar outras pessoas. 🎓
+![Descrição da imagem](./2.JPEG)
